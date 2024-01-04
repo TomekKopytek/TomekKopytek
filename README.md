@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @TomekKopytek, I'm a student of WSB University in Gdańsk, 2nd year of IT engineering, spec - Front-end
+- 👋 Hi, I’m @TomekKopytek, I'm a student of WSB University in Gdańsk, 3rd year of IT engineering, spec - Front-end
 - 👀 I’m interested in modern webpages, apps, interfaces.
 - 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me - Facebook/ https://www.facebook.com/tomek.kopytek/ - LinkedIn/ https://www.linkedin.com/in/tomasz-kopytek-0a874b21a/ / email: tomek.kopytek@gmail.com
+- 💼 I work as a Senior QA Tester
